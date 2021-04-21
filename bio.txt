@@ -1,1 +1,11 @@
-BIO:
+Jason Rivas,
+Start with powerful hook:
+Mostly a self-taught Software Developer with 1,500+ dedicated hours learning software development. I first started learning coding through creating web-applications at the Coding Dojo. There, I learned the fundamentals of programming by creating full-stack applications. For the past three years, I have been working with different computer languages, frameworks, databases and servers. I have also done deeper research in using different pieces of software and technologies such as: AI programming(dwelling into the theory of neaural networks), Unity3D(creating game assests, writing and applying scripts, utilizing the physics engine) & android app development with Android Studio.
+
+Tell Compelling Story:
+I have no experience working in a professional software setting for a successful company, but I do have one professional example to show
+
+What Makes Me Unique:
+What makes me unique is my extensive demonstratable knowledge in the software field. I have developed the skill to face bugs during development, ask questions and get answers. Learning how to read through documentation is important for developers to know. 
+
+What I have to offer:
